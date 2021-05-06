@@ -73,5 +73,14 @@ For any doubts related to the issues, i.e., to understand the issue better etc, 
 
 ###TODO
 
-1. Change font
-2. Change Name
+- Change font
+- Change Name
+- Change the links to portfolios
+- Add your description
+- Modify your work experience
+- Remove the floating 1/0
+- Find a way to add nice graphics - https://www.pexels.com/
+
+Once we get the basics done...
+
+- Find the css that Nivin recommended
