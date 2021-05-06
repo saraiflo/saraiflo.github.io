@@ -1,5 +1,5 @@
 .vscode
 
 .DS_Store
-fonts/*
-images/*
+fonts/.DS_Store
+images/.DS_Store
