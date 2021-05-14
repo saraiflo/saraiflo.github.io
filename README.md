@@ -2,14 +2,6 @@
 
 Web Portfolio to showcase projects and skills in better manner.
 
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
-
-###### https://vinaysomawat.github.io/
-
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
-
 ### About me
 
 - Competitive Programming Page
@@ -53,13 +45,6 @@ Web Portfolio to showcase projects and skills in better manner.
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
-
-#### To contribute to the project:
-
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues).
-2. Comment on the issue: `Can I work on this?` and get assigned.
-3. Make changes to your fork and send a PR.
 
 #### To create a PR:
 
@@ -74,13 +59,16 @@ For any doubts related to the issues, i.e., to understand the issue better etc, 
 ###TODO
 
 - Change font
-- Change Name
-- Change the links to portfolios
-- Add your description
-- Modify your work experience
-- Remove the floating 1/0
 - Find a way to add nice graphics - https://www.pexels.com/
 
 Once we get the basics done...
 
 - Find the css that Nivin recommended
+
+completed
+
+- Change Name
+- Change the links to portfolios
+- Add your description
+- Modify your work experience
+- Remove the floating 1/0
