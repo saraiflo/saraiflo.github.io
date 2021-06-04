@@ -50,7 +50,7 @@
       $("#colorlib-counter").waypoint(
         function(direction) {
           if (direction === "down" && !$(this.element).hasClass("animated")) {
-            setTimeout(counter, 400);
+            setTimeout(counter, 100);
             $(this.element).addClass("animated");
           }
         },
